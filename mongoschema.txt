@@ -1,0 +1,347 @@
+{
+  "fields": [
+    {
+      "name": "_id",
+      "path": "_id",
+      "count": 14,
+      "types": [
+        {
+          "name": "ObjectID",
+          "bsonType": "ObjectID",
+          "path": "_id",
+          "count": 14,
+          "values": [
+            "5d5690e4498d0e35745460bb",
+            "5d5bdce6ccaacc3740a3b52a",
+            "5d5bdd64d1a8990a0c62cd1f",
+            "5d5bddaed1a8990a0c62cd21",
+            "5d5bddbbd1a8990a0c62cd23",
+            "5d5bde75d1a8990a0c62cd25",
+            "5d5bed3d10c6df4218399bbc",
+            "5d5c21255e5918421cfb1bd4",
+            "5d5c3c822d6b7c2348d83b9b",
+            "5d5c3d2820f2cf0b94b25489",
+            "5d5c41dd20f2cf0b94b2548a",
+            "5d5c425820f2cf0b94b2548c",
+            "5d5c479275e8843994c3feef",
+            "5d5c4854e764f7235060b934"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 14,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 14,
+      "type": "ObjectID",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "__v",
+      "path": "__v",
+      "count": 14,
+      "types": [
+        {
+          "name": "Int32",
+          "bsonType": "Int32",
+          "path": "__v",
+          "count": 14,
+          "values": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 14,
+      "type": "Int32",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "email",
+      "path": "email",
+      "count": 14,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "email",
+          "count": 14,
+          "values": [
+            "kgmbruce5@gmail.com",
+            "kgmbrce5@gmail.com",
+            "kgmbrcfe5@gmail.com",
+            "kgmbre5@gmail.com",
+            "kgmbre577@gmail.com",
+            "kgmbre5772@gmail.com",
+            "gopinath1993cse@gmail.com",
+            "cricneed5@gmail.com",
+            "gopi@gmail.com",
+            "gopi123456@gmail.com",
+            "12342@gmail.com",
+            "gopinath1993cse123456@gmail.com",
+            "gopinath1993cseooo@gmail.com",
+            "gopinath199311111cse@gmail.com"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 14,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 14,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "geetValue",
+      "path": "geetValue",
+      "count": 4,
+      "types": [
+        {
+          "name": "Undefined",
+          "type": "Undefined",
+          "path": "geetValue",
+          "count": 10,
+          "total_count": 0,
+          "probability": 0.7142857142857143,
+          "unique": 1,
+          "has_duplicates": true
+        },
+        {
+          "name": "Array",
+          "bsonType": "Array",
+          "path": "geetValue",
+          "count": 3,
+          "types": [
+            {
+              "name": "String",
+              "bsonType": "String",
+              "path": "geetValue",
+              "count": 3,
+              "values": [
+                "one",
+                "one",
+                "one"
+              ],
+              "total_count": 0,
+              "probability": 0.6,
+              "unique": 1,
+              "has_duplicates": true
+            },
+            {
+              "name": "Int32",
+              "bsonType": "Int32",
+              "path": "geetValue",
+              "count": 2,
+              "values": [
+                1,
+                1
+              ],
+              "total_count": 0,
+              "probability": 0.4,
+              "unique": 1,
+              "has_duplicates": true
+            }
+          ],
+          "lengths": [
+            1,
+            2,
+            2
+          ],
+          "total_count": 5,
+          "probability": 0.21428571428571427,
+          "average_length": 1.6666666666666667
+        },
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "geetValue",
+          "count": 1,
+          "values": [
+            "one"
+          ],
+          "total_count": 0,
+          "probability": 0.07142857142857142,
+          "unique": 1,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 14,
+      "type": [
+        "Undefined",
+        "Array",
+        "String"
+      ],
+      "has_duplicates": true,
+      "probability": 0.2857142857142857
+    },
+    {
+      "name": "password",
+      "path": "password",
+      "count": 14,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "password",
+          "count": 14,
+          "values": [
+            "$2b$10$5kBIRKS5IRXFz9Q1jn/IceFiiI2C9/8oQnThjUf/LqUpBELSjji1S",
+            "$2b$10$zeGlhoXPNhuFWwYQJxHoLuC9OQrzvFYeObPhvrebdZo.DCubirH4S",
+            "$2b$10$aQfw8SK0I8/uIEwBKeSv0e.8Y9XhrtxWZP33o9bG6A62QtMw7C0dq",
+            "$2b$10$sE3v.OSvwFEFbAqqbjqtyebOiG/GRrhXyyWwVYtK.PU8Gk3XpWp8.",
+            "$2b$10$zJ95AF5r5La6oZRaI7NahOh.6RASRuuUI/aZ1Oa648wHHbaPa.I7.",
+            "$2b$10$aeA5McyWDFPse/XRVkHzfOPTw3KRxAQt2YaJZsecJ1RV.ydv9.kZW",
+            "$2b$10$UJHvrY3JS8FkDFanVitBmeigYFvZ7zzbJ0sXKnxAN/7KMlpetYUi2",
+            "$2b$10$HHmE8yPlMP.8WbeOFeOn1.Mhd7391kttVQfzBw.uasTm6ZHkj1wna",
+            "$2b$10$ayJDAtMK/68jCh3VDU4AWOmGOIqaplGoiGblAQgCJNSWxYnj15JbG",
+            "$2b$10$PIxAanKYkOJJ2tUAlSiLs.ikbC1FkUStcVFc5HoRHvgGHpjbXaAlm",
+            "$2b$10$9Mj4WajUZb1E3nMiCBqRMuvB43QkvrZYb8TP2e4UF.9FnEqMoXu96",
+            "$2b$10$ixfJfF5VYwZQUDCB0DspdO7/FPh2Oy.2PQaJw2cO9CKG8U3Geuqzq",
+            "$2b$10$lgblXnAEOBVBn4kxg6BKKexumlrO4v5Caq7x1x9zxDNw7GolEB6zG",
+            "$2b$10$ePjoL.CSJ07WC7eCtNdlcu5xyYPLAp7LGgHs/aZC0Ft8C9TPq6G1a"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 14,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 14,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "phoneNumber",
+      "path": "phoneNumber",
+      "count": 14,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "phoneNumber",
+          "count": 14,
+          "values": [
+            "96969696",
+            "96969696",
+            "96969696",
+            "96969696",
+            "96969696",
+            "96969696",
+            "9698645564",
+            "9090909090",
+            "9698645564",
+            "9698645564",
+            "9698645564",
+            "9698645564",
+            "9698645564",
+            "9698645564"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 3,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 14,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "saltSecret",
+      "path": "saltSecret",
+      "count": 14,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "saltSecret",
+          "count": 14,
+          "values": [
+            "$2b$10$5kBIRKS5IRXFz9Q1jn/Ice",
+            "$2b$10$zeGlhoXPNhuFWwYQJxHoLu",
+            "$2b$10$aQfw8SK0I8/uIEwBKeSv0e",
+            "$2b$10$sE3v.OSvwFEFbAqqbjqtye",
+            "$2b$10$zJ95AF5r5La6oZRaI7NahO",
+            "$2b$10$aeA5McyWDFPse/XRVkHzfO",
+            "$2b$10$UJHvrY3JS8FkDFanVitBme",
+            "$2b$10$HHmE8yPlMP.8WbeOFeOn1.",
+            "$2b$10$ayJDAtMK/68jCh3VDU4AWO",
+            "$2b$10$PIxAanKYkOJJ2tUAlSiLs.",
+            "$2b$10$9Mj4WajUZb1E3nMiCBqRMu",
+            "$2b$10$ixfJfF5VYwZQUDCB0DspdO",
+            "$2b$10$lgblXnAEOBVBn4kxg6BKKe",
+            "$2b$10$ePjoL.CSJ07WC7eCtNdlcu"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 14,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 14,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "username",
+      "path": "username",
+      "count": 14,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "username",
+          "count": 14,
+          "values": [
+            "gopi",
+            "bruce",
+            "bruce",
+            "bruce",
+            "bruce",
+            "bruce1",
+            "101251342104",
+            "cric needs",
+            "101251342104111",
+            "10125134210411",
+            "12334444",
+            "gopinath1993cse@gmail.com",
+            "101251342104",
+            "101251342104"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 9,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 14,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    }
+  ],
+  "count": 14
+}
